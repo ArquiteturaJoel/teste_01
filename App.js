@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View, ScrollView } from 'react-native';
-import Axios from 'axios';
+import axios from "axios";
 
 import MeuComponente from './MeuComponente';
 
